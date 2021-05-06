@@ -20,5 +20,7 @@ const clientSchema = mongoose.Schema({
     }
 });
 
+
+//Initialize Schema
 const clientData = mongoose.model('clientData', clientSchema);
 module.exports = clientData;
