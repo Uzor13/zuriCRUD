@@ -62,7 +62,7 @@ const updateClient = async (req, res) => {
             }
         )
         res.status(202).json({
-            message: 'Successful',
+            message: `Updated ${id} successfully`,
             data: id
         });
 
@@ -75,11 +75,10 @@ const updateClient = async (req, res) => {
 //Delete Data
 const deleteClient = async (req, res) => {
     const id = req.params.id;
-
     try {
         await User.findOneAndRemove({id: id});
         res.status(203).json({
-            message: 'Successful',
+            message: `Deleted ${id} successfully`,
             data: id
         });
 

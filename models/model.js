@@ -4,7 +4,8 @@ const mongoose = require('mongoose');
 const clientSchema = mongoose.Schema({
     id: {
         type: String,
-        required: true
+        required: true,
+        unique: true
     },
     name: {
         type: String,
