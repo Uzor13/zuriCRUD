@@ -8,7 +8,6 @@ const clientRoutes = require('./routes/client');
 
 // Initialize modules
 const app = express();
-const PORT = process.env || 3000;
 
 app.use(express.json())
 
@@ -18,7 +17,7 @@ mongoDB();
 //Use Routes
 app.use('/', clientRoutes);
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || 3000, () => {
     console.log(`Server started on localhost:${PORT}`);
 })
 
