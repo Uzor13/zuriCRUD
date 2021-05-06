@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8596c1a-3b11-4735-8f68-9fc5858c7c08" name="Default Changelist" comment="latest commit">
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s8TfMePeoPAEruwOejp9ELfgjb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nodeCRUD" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: &quot;3&quot;,&#10;  &quot;name&quot;: &quot;Jerry&quot;,&#10;  &quot;email&quot;: &quot;jerry@gmail.com&quot;,&#10;  &quot;country&quot;: &quot;Nigeria&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;id&quot;: &quot;1&quot;,&#10;  &quot;name&quot;: &quot;Precious&quot;,&#10;  &quot;email&quot;: &quot;test@gmail.com&quot;,&#10;  &quot;country&quot;: &quot;Nigeria&quot;&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.test#1">
+    <configuration name="test#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/models/test.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="test#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/models/test.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.test#1" />
+        <item itemvalue="HTTP Request.test#2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8596c1a-3b11-4735-8f68-9fc5858c7c08" name="Default Changelist" comment="" />
+      <created>1620253319245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620253319245</updated>
+      <workItem from="1620253320428" duration="15493000" />
+      <workItem from="1620306448963" duration="6896000" />
+    </task>
+    <task id="LOCAL-00001" summary="latest commit">
+      <created>1620301885826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620301885826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made changes">
+      <created>1620308213912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620308213912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Made changes">
+      <created>1620314567943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620314567943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="latest commit" />
+    <MESSAGE value="Made changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made changes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620303721137">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="299" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1620303721137" />
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1620316350026">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1620316350026" />
+    <state x="407" y="226" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog" timestamp="1620296182453">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="407" y="226" key="#com.intellij.ws.actions.HttpClientConvertFromCurlDialog/0.0.1280.720@0.0.1280.720" timestamp="1620296182453" />
+    <state x="421" y="115" key="FileChooserDialogImpl" timestamp="1620303894442">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="115" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1620303894442" />
+    <state width="1260" height="170" key="GridCell.Tab.0.bottom" timestamp="1620303896394">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1260" height="170" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1620303896394" />
+    <state width="1260" height="170" key="GridCell.Tab.0.center" timestamp="1620303896393">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1260" height="170" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1620303896393" />
+    <state width="1260" height="170" key="GridCell.Tab.0.left" timestamp="1620303896393">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1260" height="170" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1620303896393" />
+    <state width="1260" height="170" key="GridCell.Tab.0.right" timestamp="1620303896393">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1260" height="170" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1620303896393" />
+    <state x="233" y="89" key="Vcs.Push.Dialog.v2" timestamp="1620314574528">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="89" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1620314574528" />
+    <state x="414" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620301789307">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="414" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1620301789307" />
+  </component>
+</project>

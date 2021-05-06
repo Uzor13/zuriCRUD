@@ -1,0 +1,64 @@
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+  "id": "3",
+  "name": "Jerry",
+  "email": "jerry@gmail.com",
+  "country": "Nigeria"
+}
+
+<> 2021-05-06T124742.201.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T124713.200.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T115932.200.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T114454.200.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T111936.404.html
+
+###
+
+POST http://localhost:3000
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "Precious",
+  "email": "test@gmail.com",
+  "country": "Nigeria"
+}
+
+<> 2021-05-06T111927.200.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T111812.200.json
+
+###
+
+GET http://localhost:3000
+
+<> 2021-05-06T111600.200.json
+
+###
+
