@@ -11,3 +11,5 @@
 * Posting data route is '/'
 * Updating data route is '/:id'
 * Deleting data route is '/:id'
+
+#### The link to app is deployed on Heroku: [Zuri CRUD App](https://zuri-crud-app.herokuapp.com/)
