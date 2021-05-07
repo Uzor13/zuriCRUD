@@ -6,10 +6,10 @@
 
 #### Users can POST, GET, PUT, and DELETE data. The data comprises of id, name, email, country which are all required.
 
-* Get a single data route is '/:id'
-* Get all data '/'
-* Posting data route is '/'
-* Updating data route is '/:id'
-* Deleting data route is '/:id'
+* Get a single data route: '/:id'
+* Get all data: '/'
+* Posting data route: '/'
+* Updating data route: '/:id'
+* Deleting data route: '/:id'
 
 #### The link to app is deployed on Heroku: [Zuri CRUD App](https://zuri-crud-app.herokuapp.com/)
